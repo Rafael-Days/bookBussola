@@ -6,6 +6,9 @@ Dentro dos métodos assincronos de BookController, adicionei try cacth, para cas
 
 Para essa atividade, utilizei os seguintes sites:
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/try...catch
-https://www.typescriptlang.org/pt/play#example/async-await
+
+https://www.typescriptlang.org/pt/play#example/async-
+
 https://mongoosejs.com/docs/api/model.html#Model.findByIdAndUpdate()
+
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/await
